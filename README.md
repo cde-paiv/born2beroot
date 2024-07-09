@@ -143,7 +143,7 @@ enforce_for_root ➤ Iremos implementar esta política para o utilizador de raiz
 ---
 ---
 
-### Valuation born2beroot
+### Evaluation born2beroot
 
 ## Funcionamento Básico de uma Máquina Virtual
 
